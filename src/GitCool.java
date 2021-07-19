@@ -5,4 +5,6 @@ public class GitCool {
 
     // We have added our GitHub account under intelliJ
     // make sure to click apply and click on to save
+
+    // we were able to successfully shared project under our git account
 }
